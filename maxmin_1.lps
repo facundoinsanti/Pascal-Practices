@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="maxmin_1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="15"/>
+        <CursorPos X="29" Y="43"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="6">
+      <Position>
+        <Filename Value="maxmin_1.lpr"/>
+        <Caret Line="46" Column="11" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="maxmin_1.lpr"/>
+        <Caret Line="2" Column="4"/>
+      </Position>
+      <Position>
+        <Filename Value="maxmin_1.lpr"/>
+        <Caret Line="18" Column="5" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="maxmin_1.lpr"/>
+        <Caret Line="8" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="maxmin_1.lpr"/>
+        <Caret Line="13" Column="8" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="maxmin_1.lpr"/>
+        <Caret Line="3" Column="48"/>
+      </Position>
+      <Position>
+        <Filename Value="maxmin_1.lpr"/>
+        <Caret Line="23" Column="20" TopLine="12"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
