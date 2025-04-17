@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ascendentes_9.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="15"/>
+        <CursorPos X="30" Y="11"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="6">
+      <Position>
+        <Filename Value="ascendentes_9.lpr"/>
+        <Caret Line="16" Column="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ascendentes_9.lpr"/>
+        <Caret Line="32" Column="49" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="ascendentes_9.lpr"/>
+        <Caret Line="30" Column="3" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="ascendentes_9.lpr"/>
+        <Caret Line="26" Column="27" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="ascendentes_9.lpr"/>
+        <Caret Line="46" Column="13" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="ascendentes_9.lpr"/>
+        <Caret Line="10" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="ascendentes_9.lpr"/>
+        <Caret Line="12" Column="64"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
